@@ -1,0 +1,8 @@
+gradio
+torch
+torchvision
+pillow
+numpy
+pandas
+scikit-learn
+# Add any other dependencies your src/ code needs
